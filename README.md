@@ -13,5 +13,5 @@ Changed most tons of grey as well as the ton of blue. Also added some transparen
 - git clone https://github.com/JediFonseca/JediF-Dark-Theme.git
 - cd JediF-Dark-Theme
 - tar xvzf JediF-Dark-Theme.tar.gz
-- mkdir /home/"$USER"/.icons
-- cp JediF-Dark-Theme /home/"$USER"/.icons
+- mkdir /home/"$USER"/.themes
+- cp JediF-Dark-Theme /home/"$USER"/.themes
