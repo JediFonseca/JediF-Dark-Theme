@@ -8,6 +8,8 @@ Changed most tons of grey as well as the ton of blue. Also added some transparen
 
 ![M-J01](https://user-images.githubusercontent.com/47907146/62982538-cec8f800-be02-11e9-9fe5-fd4b6541b2a9.png)
 
+![Captura de tela de 2019-08-13 21-59-58](https://user-images.githubusercontent.com/47907146/62987702-7cde9d00-be17-11e9-87b1-7d33a0fd982b.png)
+
 # Installation
 
 - git clone https://github.com/JediFonseca/JediF-Dark-Theme.git
