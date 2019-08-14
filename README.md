@@ -12,9 +12,8 @@ Tested on Linux Mint 19.2 Cinnamon and Ubuntu 19.04.
 
 ![Captura de tela de 2019-08-13 21-59-58](https://user-images.githubusercontent.com/47907146/62987702-7cde9d00-be17-11e9-87b1-7d33a0fd982b.png)
 
-# Dependencies
+# Dependencies: Git
 
-- Git
 - Ubuntu/Mint: sudo apt install git
 - Fedora: sudo dnf install git
 - Arch/Manjaro: sudo pacman -S git
